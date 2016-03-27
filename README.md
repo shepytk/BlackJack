@@ -1,2 +1,2 @@
-# BlackJack-
-# MAP-REDUCE-
+# BlackJack- c++ implemantation 
+
