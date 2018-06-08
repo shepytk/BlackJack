@@ -58,9 +58,9 @@ void Deck::AdditionalCards(GenericPlayer& aGenericPlayer)
         std::cout << aGenericPlayer << std::endl;
 
         if (aGenericPlayer.IsBusted())
-		{
+        {     
             aGenericPlayer.Bust();
-		}
+	}
     }
 }
 
